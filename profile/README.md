@@ -26,11 +26,3 @@ BehaPulse Sensing Model과 상호 작용할 수 있는 사용자 인터페이스
 ### 주요 기능:
 - Python과 CSS로 구축된 반응형 인터페이스.
 - BehaPulse-Sensing-Model과의 실시간 데이터 시각화 통합.
-
-## 👥 팀
-우리 팀은 머신러닝, 소프트웨어 개발, 하드웨어 통합 전문가들로 구성되어 있으며, 저비용 기술로 행동 감지의 한계를 넓히기 위해 함께 노력하고 있습니다.
-
-## 🛠️ 기술 스택
-- 프로그래밍 언어: Python, CSS
-- 프레임워크 및 도구: Pytorch, Flask, Dash
-- 하드웨어: ESP32, Raspberry Pi
