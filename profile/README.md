@@ -10,7 +10,6 @@ BehaPulse는 저비용 하드웨어와 고급 딥러닝 모델을 활용하여 �
     - [BehaPulse-UI](#BehaPulse-UI)
 3. [팀](#팀)
 4. [기술 스택](#기술-스택)
-5. [라이선스](#라이선스)
 
 ## 🚀 프로젝트
 ## BehaPulse-Sensing-Model
