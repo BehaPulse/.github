@@ -8,7 +8,7 @@ BehaPulse는 저비용 하드웨어와 고급 딥러닝 모델을 활용하여 �
 2. [프로젝트](#프로젝트)  
     - [BehaPulse-Sensing-Model](#BehaPulse-Sensing-Model)
     - [BehaPulse-UI](#BehaPulse-UI)
-3. [팀](#팀)
+3. [시스템 구성 및 아키텍처](#시스템-구성-및-아키텍처)
 4. [기술 스택](#기술-스택)
 
 ## 🚀 프로젝트
@@ -26,3 +26,15 @@ BehaPulse Sensing Model과 상호 작용할 수 있는 사용자 인터페이스
 ### 주요 기능:
 - Python과 CSS로 구축된 반응형 인터페이스.
 - BehaPulse-Sensing-Model과의 실시간 데이터 시각화 통합.
+
+## 시스템 구성 및 아키텍처
+-
+-
+-
+-
+-
+-
+
+
+
+## 기술 스택
