@@ -20,13 +20,14 @@ BehaPulse Sensing Model과 상호 작용할 수 있는 사용자 인터페이스
 - BehaPulse-Sensing-Model과의 실시간 데이터 시각화 통합.
 
 ## 💻 시스템 구성 및 아키텍처
--
--
--
--
--
--
-
+### AI Research – Server
+<img src="https://github.com/BehaPulse/.github/blob/main/profile/img/img3.png?raw=true">
+  
+### Server – Client
+<img src="https://github.com/BehaPulse/.github/blob/main/profile/img/img1.png?raw=true">
+  
+### DB
+<img src="https://github.com/BehaPulse/.github/blob/main/profile/img/db.png?raw=true">
 
 
 ## 🛠️ 기술 스택
